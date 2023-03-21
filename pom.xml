@@ -501,6 +501,6 @@
       <layout>default</layout>
     </repository>
 </distributionManagement>
-
+<proxies/>
 
 </project>
