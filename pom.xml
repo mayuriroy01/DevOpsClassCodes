@@ -491,5 +491,16 @@
             </reporting>
         </profile>
     </profiles>
+	
+<distributionManagement>
+    <repository>
+      <uniqueVersion>false</uniqueVersion>
+      <id>corp1</id>
+      <name> Sanders_Fresco_repo </name>
+      <url>https://github.com/mayuriroy01/Test_repo_edureka/</url>
+      <layout>default</layout>
+    </repository>
+</distributionManagement>
+
 
 </project>
